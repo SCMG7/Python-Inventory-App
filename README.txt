@@ -1,4 +1,4 @@
-#This is a simple 'Inventory' application created by Marti Georgiev
+#This is a simple (prototype) 'Inventory' application created by Marti Georgiev
 # For this application Tkinter library has been used
 
 
