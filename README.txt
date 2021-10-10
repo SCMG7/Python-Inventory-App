@@ -1,4 +1,5 @@
-#This is a simple (prototype) 'Inventory' application created by Marti Georgiev
-# For this application Tkinter library has been used
+# Created for Linux Os with Tkinter library 
+# Install Python3 to run 
+
 
 
